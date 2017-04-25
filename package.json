@@ -1,0 +1,29 @@
+{
+  "name": "fundamentals",
+  "version": "0.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "browserslist": [
+    ">1%",
+    "last 2 versions"
+  ],
+  "author": "robert blair <rob@rblair.ca>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/r-blair/fundamentals.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.4.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-typescript": "^3.1.6",
+    "typescript": "^2.2.2"
+  }
+}

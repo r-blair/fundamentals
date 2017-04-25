@@ -1,0 +1,48 @@
+@import 'partials/globals';
+@import 'partials/variables';
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+ul a {
+  text-decoration: none;
+  display: block;
+  color: black;
+  background-color: red;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+ul a:hover {
+  color: red;
+  background-color: black;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h1 + p {
+  font-style: bold;
+  color: green;
+}
+
+.test {
+    background-color: green;
+    padding: 2rem;
+    margin: 3.33%;
+    border: .3rem yellow solid;
+    height: 3rem;
+    width: 40%;
+    display: inline-block;
+}
+
+.bbox {
+    box-sizing: border-box;
+}
+
+.cbox {
+    box-sizing: content-box;
+}
