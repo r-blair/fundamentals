@@ -6,7 +6,7 @@
 
 ## What this is:
 
-As I'm currently looking for work in Vancouver I thought it would be a good idea to make a repository to show off the essential skills I've learned without being cluttered in with large frameworks.
+As I'm currently looking for work and all my other repositories are Angular-centric I thought it would be a good idea to create a repository showing off fundamental JavaScript skills.
 
 ## Things you'll see here:
 
